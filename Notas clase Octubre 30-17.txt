@@ -1,0 +1,15 @@
+Octubre 30 de 2017
+
+Apuntes importantes - ORACLE
+
+- Un cursor implícito cuando hacemos un Select, solo puede devolver UN REGISTRO.
+
+	SELECT col1, col2, col3 INTO var1, var2, var3 WHERE ..... ;
+
+- Un cursor implícito no tiene nombre porque el mismo se crea, se abre y se cierra (Es transparente para nosotros).
+
+Estudiar para el Quiz
+
+VISTAS 
+FUNCIONES
+EXPLAIN PLAN
